@@ -95,3 +95,8 @@ console.log(nombreMascota);
 
 let deporteFavorito = prompt("Por favor ingresa tu deporte favorito");
 console.log(deporteFavorito);
+
+// 21. Pide al usuario que ingrese su canción favorita y muestre un mensaje con esa canción en la consola.
+
+let cancionFavorita = prompt("Por favor ingresa tu cancion favorita");
+console.log(cancionFavorita);
