@@ -75,3 +75,23 @@ console.log(color);
 
 let frase = prompt("Escribe una frase que te guste: ")
 console.log(frase)
+
+// 17. Pregunta al usuario su ciudad de nacimiento y muestra un mensaje con esa ciudad en la consola.
+
+let ciudadNacimiento = prompt("Ingresa tu ciudad de nacimiento");
+console.log(ciudadNacimiento);
+
+// 18. Solicita al usuario que ingrese su película favorita y muestre un mensaje con esa película en la consola.
+
+let peliculaFavorita = prompt("Por favor ingresa tu pelicula favorita");
+console.log(peliculaFavorita);
+
+// 19. Pide al usuario que ingrese el nombre de su mascota y muestra un mensaje con ese nombre en la consola.
+
+let nombreMascota = prompt("Por favor ingresa el nombre de tu mascota");
+console.log(nombreMascota);
+
+// 20. Solicita al usuario que ingrese su deporte favorito y muestre un mensaje con ese deporte en la consola.
+
+let deporteFavorito = prompt("Por favor ingresa tu deporte favorito");
+console.log(deporteFavorito);
