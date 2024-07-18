@@ -100,3 +100,8 @@ console.log(deporteFavorito);
 
 let cancionFavorita = prompt("Por favor ingresa tu cancion favorita");
 console.log(cancionFavorita);
+
+// 22. Muestra un mensaje de bienvenida usando alert.
+
+alert("Bienvenido a mi repositorio");
+
